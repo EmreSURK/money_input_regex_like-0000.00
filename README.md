@@ -1,0 +1,1 @@
+# money_input_regex_like-0000.00
