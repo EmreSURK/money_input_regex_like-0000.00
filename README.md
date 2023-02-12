@@ -1,1 +1,3 @@
-# money_input_regex_like-0000.00
+# r'^(\d+)?\.?\d{0,2}'
+
+# allows : 32123.12
